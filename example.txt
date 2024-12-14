@@ -1,0 +1,2 @@
+Hello, this is a test file.
+Java IO 寫檔示範。
